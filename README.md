@@ -1,6 +1,8 @@
 
 ##  CENTURION INSPIRED CHRISTMAS ORNAMENT ##
 
+** Disclaimer **
+CODE 98% ChatGPT
 
 This project picks up the basic files from the CenturionDeskmate and replaces the existing main_modular_amber.py 
 for a main_xmas_amber.py, as well as the file call on main.py.
